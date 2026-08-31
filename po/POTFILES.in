@@ -1,0 +1,6 @@
+# List of source files containing translatable strings.
+# Please keep this file sorted alphabetically.
+data/org.jhanner.Baply.desktop.in
+data/org.jhanner.Baply.metainfo.xml.in
+data/org.jhanner.Baply.gschema.xml
+src/window.ui
